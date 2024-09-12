@@ -1,5 +1,9 @@
 # IT Roadmap for Beginners (QA Engineers, BAs, IT Project Managers)
 
+This guide is designed to help individuals with no technical background get started in the IT industry. 
+Whether you're aiming to become a QA Engineer, Business Analyst, IT Project Manager, or simply want to understand the foundational concepts of IT, this roadmap will provide the common technical knowledge you need.
+Repository contains links to articles and video tutorials.
+
 ### 1. **Operating Systems (OS)**
    - **What to Learn:** Definition, basic functions, file systems, processes, task management.
    - **Resources:**

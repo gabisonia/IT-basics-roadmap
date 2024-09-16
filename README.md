@@ -42,7 +42,7 @@ The repository contains links to articles and video tutorials.
      - [Databases: Crash Course Computer Science](https://www.youtube.com/watch?v=wR0jg0eQsZA) (Video)
      - [Introduction to Databases by Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql) (Course)
 
-### 7. **APIs (Application Programming Interfaces)**
+### 7. **APIs**
    - **What to Learn:** What is an API, how systems communicate using APIs, basics of REST and SOAP, JSON/XML formats.
    - **Resources:**
      - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY) (Video)
